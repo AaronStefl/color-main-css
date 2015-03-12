@@ -1,0 +1,73 @@
+body {
+  background-color: #bfc7d9;
+  color: #343740;
+  padding: 15px;
+  
+  
+  /*-- Heading family/size --*/
+	}
+
+h1 {
+	font-family: Georgia, Times, serif;
+  	color: #ad006b;
+  	font-size: 250%;
+  	text-shadow: 2px 2px#666
+	}
+
+h2 {
+  	font-family: "Gill Sans", Arial, sans-serif;
+  font-size: 90%;
+  text-transform: uppercase;
+	}
+	h3 {
+  	font-size: 150%
+	}  
+
+
+  	/*-- Font Weight/Style --*/
+
+h1, h2, h3 {
+	font-weight: normal;
+	}
+
+  /*-- Pumpkin link --*/
+
+a {
+  	font-weight: bold;
+  	}
+
+a:link {
+  	color: blue;
+  	text-decoration: none;
+	}
+a:visited {
+	color: #7d82bc;
+	text-decoration: none;
+	}
+a:hover {
+  	color: blue;
+  	text-decoration: underline;
+	}
+a:active {
+  	color: #343740;
+	}
+ 
+
+  /*--Changed par line height --*/
+
+p {
+	line-height: 1.4em;
+	} 
+  
+  
+  /*-- Credits --*/
+#credits {
+	font-style: italic;
+	text-align: right;
+	}
+  
+
+
+
+
+ 
